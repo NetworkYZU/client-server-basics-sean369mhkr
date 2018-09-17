@@ -11,11 +11,11 @@ import java.io.InputStreamReader;
 import java.io.OutputStream;
 import java.io.OutputStreamWriter;
 import java.io.Writer;
-import java.net.Socket;
+import java.net.Socket; 
 
 /**
  *
- * @author lendle
+ * @author sean369mhkr
  */
 public class DictClient {
 
